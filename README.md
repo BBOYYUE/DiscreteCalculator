@@ -1,0 +1,2 @@
+# DiscreteCalculator
+离散数学涉及到的各种数学公式的实现
